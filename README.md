@@ -1,2 +1,2 @@
 # MyNewRepo
-VS code connect yo GitHub
+VS code connect to GitHub
